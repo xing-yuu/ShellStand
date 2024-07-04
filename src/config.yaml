@@ -1,0 +1,17 @@
+Mode: release
+# DEBUG-boundary,DEBUG-thickening,release
+
+
+
+InputPath: D:\Project\BalanceOptimizationforOpenSurface\data
+OutputPath: D:\Project\BalanceOptimizationforOpenSurface\result
+DebugPath: D:\Project\BalanceOptimizationforOpenSurface\debug
+
+
+
+InputModel: test45_final.obj
+# test45_final.obj
+Scale: 100
+AddBase: True
+K_detail: 0.5
+K_shape: 0.5
